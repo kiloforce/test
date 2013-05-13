@@ -11,6 +11,12 @@ regular paragraph.
 The quick brown fox jumped over the lazy
 dog's back.
 
+# H1 #
+
+## H2 ##
+
+### H3 ###
+
 ### Header 3
 
 > This is a blockquote.
